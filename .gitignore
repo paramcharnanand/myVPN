@@ -1,0 +1,6 @@
+# WireGuard keys and configs — never commit real values
+*.key
+*.conf
+
+# OS cruft
+.DS_Store
